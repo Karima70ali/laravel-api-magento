@@ -54,7 +54,9 @@
                 <button type="submit" class="btn btn-primary">Submit</button>
             </form>
         </div>
+        <div><a  href="{{ url('get-laravel-data/') }}" class="btn btn-primary btn-sm">Get laravel data</a></div>
     </div>
+
 </div>
 </body>
 </html>
